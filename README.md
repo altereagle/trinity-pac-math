@@ -1,2 +1,2 @@
 # trinity-pac-math
-A pac math game
+# A pac math game
